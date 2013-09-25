@@ -31,7 +31,7 @@ public class saludar extends HttpServlet {
             throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
-         System.out.println("Hola mundo");
+         System.out.println("Hola mundo de nuevo");
          
         try {
             /* TODO output your page here. You may use following sample code. */
